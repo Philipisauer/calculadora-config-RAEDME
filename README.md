@@ -1,19 +1,16 @@
-# Calculadora Tabajara 2025
+### Calculadora simples acad. programador 2025
 
-![](https://i.imgur.com/beWC3gu.gif)
+![https://i.imgur.com/hCWzNSr.gif])
 
 ## Introdução
 
-Uma calculadora de console simples mas poderosa que permite realizar as quatro operações matemáticas.
+Uma calculadora simples que realiza as quatro operações matematicas.
 
 ## Funcionalidades
 
-- **Operações Básicas**: Realize somas, subtrações, multiplicações e divisões com facilidade.
-- **Suporte a Decimais**: Trabalhe com números que têm até duas casas decimais.
-- **Validação de Entrada**: A calculadora garante que apenas opções válidas sejam aceitas.
-- **Tratamento de Divisão por Zero**: A calculadora é capaz de validar erros de divisão por zero.
-- **Tabuada**: A calculadora é capaz de gerar a tabuada de um número informado.
-- **Histórico de Operações**: A calculadora é capaz de armazenar um histórico de operações.
+- **realizar 4 operações**: Realiza soma, subtrações, multiplicações, divisões e a tabuada.
+- **historico**: a calculadora cria altomaticamente um historico das operações realizadas.
+
 
 ## Como utilizar
 

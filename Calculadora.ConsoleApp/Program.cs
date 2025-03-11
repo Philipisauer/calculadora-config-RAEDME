@@ -11,7 +11,7 @@
             {
                 Console.Clear();
                 Console.WriteLine("--------------------------------");
-                Console.WriteLine("Calculadora Tabajara 2025");
+                Console.WriteLine("Calculadora simples 2025");
                 Console.WriteLine("--------------------------------");
 
                 Console.WriteLine("1 - Somar");
