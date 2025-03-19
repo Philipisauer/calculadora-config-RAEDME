@@ -1,28 +1,28 @@
 ### Calculadora simples acad. programador 2025
 
-![https://i.imgur.com/hCWzNSr.gif])
+![](https://i.imgur.com/hCWzNSr.gif)
 
-## Introdução
+## IntroduÃ§Ã£o
 
-Uma calculadora simples que realiza as quatro operações matematicas.
+Uma calculadora simples que realiza as quatro operaÃ§Ãµes matematicas.
 
 ## Funcionalidades
 
-- **realizar 4 operações**: Realiza soma, subtrações, multiplicações, divisões e a tabuada.
-- **historico**: a calculadora cria altomaticamente um historico das operações realizadas.
+- **realizar 4 operaÃ§Ãµes**: Realiza soma, subtraÃ§Ãµes, multiplicaÃ§Ãµes, divisÃµes e a tabuada.
+- **historico**: a calculadora cria altomaticamente um historico das operaÃ§Ãµes realizadas.
 
 
 ## Como utilizar
 
-1. Clone o repositório ou baixe o código fonte.
-2. Abra o terminal ou o prompt de comando e navegue até a pasta raiz
-3. Utilize o comando abaixo para restaurar as dependências do projeto.
+1. Clone o repositÃ³rio ou baixe o cÃ³digo fonte.
+2. Abra o terminal ou o prompt de comando e navegue atÃ© a pasta raiz
+3. Utilize o comando abaixo para restaurar as dependÃªncias do projeto.
 
 ```
 dotnet restore
 ```
 
-4. Em seguida, compile a solução utilizando o comando:
+4. Em seguida, compile a soluÃ§Ã£o utilizando o comando:
    
 ```
 dotnet build --configuration Release
@@ -34,7 +34,7 @@ dotnet build --configuration Release
 dotnet run --project Calculadora.ConsoleApp
 ```
 
-6. Para executar o arquivo compilado, navegue até a pasta `./Calculadora.ConsoleApp/bin/Release/net8.0/` e execute o arquivo:
+6. Para executar o arquivo compilado, navegue atÃ© a pasta `./Calculadora.ConsoleApp/bin/Release/net8.0/` e execute o arquivo:
    
 ```
 Calculdora.ConsoleApp.exe
@@ -42,4 +42,4 @@ Calculdora.ConsoleApp.exe
 
 ## Requisitos
 
-- .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+- .NET SDK (recomendado .NET 8.0 ou superior) para compilaÃ§Ã£o e execuÃ§Ã£o do projeto.
